@@ -1,11 +1,9 @@
 #include <Arduino.h>
 
-float left;
-float right;
-float top;
-float bottom;
-float top1;
-
+int top;
+int bottom;
+int left;
+int right;
 
 void setup() {
   // put your setup code here, to run once:
