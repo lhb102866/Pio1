@@ -2,10 +2,6 @@
 
 float left;
 float right;
-float top;
-float bottom;
-float top1;
-
 
 void setup() {
   // put your setup code here, to run once:
